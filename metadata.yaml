@@ -29,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40030
     wikipedia: http://en.wikipedia.org/wiki/Karl_Max,_Prince_Lichnowsky
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39457#My-Mission-to-London-1912-1914
 gutenberg_issued: '2012-04-15'
 gutenberg_type: Text
 identifiers:
